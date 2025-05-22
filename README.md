@@ -1,4 +1,4 @@
-# Messi is GOAT 🐐
+# Messi is GOAT
 
 Welcome to the **Messi is GOAT** repository! This project is dedicated to showcasing why Lionel Messi is considered the Greatest of All Time (GOAT) in the world of football. Whether you're a die-hard fan or just curious, this repository has something for everyone.
 
